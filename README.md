@@ -9,6 +9,7 @@ Developed by :
 RaianRaika 
 
 contact us : 
-Amin.Aghabeiki@gmail.com
+RaianRaika@gmail.com
+website:WWW.RaianRaika.com
 
 copyright: MIT
